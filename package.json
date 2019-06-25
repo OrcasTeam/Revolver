@@ -1,6 +1,6 @@
 {
-  "name": "Revolver",
-  "version": "1.0.0",
+  "name": "revolver",
+  "version": "0.0.1",
   "description": "a simple and practical JavaScript library",
   "main": "index.js",
   "repository": "https://github.com/OrcasTeam/Revolver.git",
